@@ -12,7 +12,7 @@ function App() {
 
         <small>
           <a
-            href="https://github.com/Ramasilo/weather-app"
+            href="https://github.com/Ramasilo/weather-app-react"
             target="_blank"
             rel="noreferrer"
           >
